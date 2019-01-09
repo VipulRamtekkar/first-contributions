@@ -109,6 +109,7 @@
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
 - [Muhammad Haris]()
 - Andreas Hayer
+- Vipul Ramtekkar
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Lorena](https://github.com/lorenafoia)
